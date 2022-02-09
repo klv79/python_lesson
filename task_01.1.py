@@ -1,0 +1,11 @@
+name = input("Введите имя? ")
+age = int(input("Введите возраст: "))
+print(f"Вас зовут {name} вам {age} лет")
+number_x = int(input("Введите число x: "))
+number_y = int(input("Введите чило y: "))
+print(f"x + y = {number_x + number_y}")
+print(f"x - y = {number_x - number_y}")
+print(f"x * y = {number_x * number_y}")
+print(f"x / y = {number_x / number_y}")
+print(f"x ** y = {number_x ** number_y}")
+
